@@ -21,3 +21,14 @@ git log
 ll
 ls al
 ll -al
+git -y
+yum install git -y
+git init .
+ll
+git log
+touch map
+git add .
+git commit -m"world map"map
+git log
+ll
+ls -al
